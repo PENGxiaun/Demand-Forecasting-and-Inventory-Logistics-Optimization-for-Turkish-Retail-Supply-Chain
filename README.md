@@ -155,7 +155,7 @@ For questions or collaborations, please reach out through Kaggle.
 **Happy Analyzing! 🚀**
 
 *Keywords: e-commerce, customer behavior, sales analysis, Turkish market, retail analytics, machine learning, data science, customer segmentation, predictive analytics*
-### 🚀 Inventory Optimization Component (Completed by Me)
+### 🚀 Inventory Optimization Component
 
 I have successfully completed the inventory optimization analysis for the Turkish retail supply chain:
 
